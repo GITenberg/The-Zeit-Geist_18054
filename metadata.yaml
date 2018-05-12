@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6678
     wikipedia: http://www2.marianopolis.edu/quebechistory/encyclopedia/LilyDougall-QuebecHistory.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18054#The-Zeit-Geist
 gutenberg_issued: '2006-03-26'
 gutenberg_type: Text
 identifiers:
